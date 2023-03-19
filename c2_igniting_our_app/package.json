@@ -1,0 +1,34 @@
+{
+  "name": "c2_igniting_our_app",
+  "version": "1.0.0",
+  "description": "c2 igniting our app",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwayamDebata/Namaste-React.git"
+  },
+  "author": "Swayam Debata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwayamDebata/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/SwayamDebata/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "main": "App.js",
+  "keywords": [
+    "namaste",
+    "react"
+  ]
+}
